@@ -29,12 +29,6 @@ opkg install https://github.com/jerrykuku/luci-theme-argon/releases/download/V1.
 ![](/Screenshots/pc/screenshot1.png)
 ![](/Screenshots/pc/screenshot2.png)
 
-<img src="/Screenshots/phone/Screenshot_1.jpg" width="375" height="792">
-<img src="/Screenshots/phone/Screenshot_2.jpg" width="375" height="792">
-<img src="/Screenshots/phone/Screenshot_3.jpg" width="375" height="792">
-
-
-
 
 ## Thanks to 
 luci-theme-material: https://github.com/LuttyYang/luci-theme-material/
